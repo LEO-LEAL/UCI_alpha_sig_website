@@ -1,0 +1,29 @@
+#header
+  {
+    /*text*/
+    text-transform: uppercase;
+    font-family: Merriweather, serif;
+    color: #cc1414;
+    text-align: center;
+
+    /*background*/
+    background-color: black;
+    margin: 0;
+    padding:0;
+  }
+
+#nav-bar
+  {
+    background-color: white;
+    list-style-type: none;
+  }
+
+div.nav-item
+  {
+    background-color: blue;
+  }
+
+body
+  {
+    background-color: rgb(150,146,145);
+  }
